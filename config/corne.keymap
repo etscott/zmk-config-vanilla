@@ -10,11 +10,6 @@
 
 #include "../zmk-nodefree-config/helper.h"
 
-// ZMK_BEHAVIOR(swapper, tri_state,
-//    bindings = <&kt LALT>, <&kp TAB>, <&kt LALT>;
-//    ignored-key-positions = <LT2>;
-// )
-
 / {
         keymap {
                 compatible = "zmk,keymap";
